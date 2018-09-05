@@ -9,7 +9,8 @@
     "tcp",
     "events",
     "socket",
-    "io"
+    "io",
+    "sockets"
   ],
   "main": "./lib/index",
   "files": [
